@@ -60,8 +60,8 @@ Permite administrar clientes, productos y ventas, con operaciones CRUD y reporte
 
 ---
 
-### Cosas a mejorar
+## Cosas a mejorar
 
-Implementar autenticación y roles de usuario
-Agregar reportes avanzados y filtros
-Implementar pruebas unitarias e integración
+1. Implementar autenticación y roles de usuario
+2. Agregar reportes avanzados y filtros
+3. Implementar pruebas unitarias e integración
