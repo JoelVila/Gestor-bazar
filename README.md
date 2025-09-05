@@ -57,3 +57,11 @@ Permite administrar clientes, productos y ventas, con operaciones CRUD y reporte
 
 ### VentaMayorDTO
 ### VentaMenor
+
+---
+
+### Cosas a mejorar
+
+Implementar autenticación y roles de usuario
+Agregar reportes avanzados y filtros
+Implementar pruebas unitarias e integración
